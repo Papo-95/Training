@@ -104,6 +104,4 @@ class Student{
 	public String toString() {
 		return "[NAME: " + name + "]\n[COURSES: " + courses + "]\n[BALANCE: $" + balance + " ]";
 	}
-	
-	
 }
